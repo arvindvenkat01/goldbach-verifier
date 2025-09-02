@@ -1,0 +1,7 @@
+Python package versions used to generate the results in the paper.
+
+Use 'pip install -r requirements.txt' to install them for reproducibility.
+
+numpy==2.0.2
+numba==0.60.0
+psutil
