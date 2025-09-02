@@ -29,7 +29,7 @@ This work provides a transparent, reproducible, and efficient methodology for la
 
 ## Repository Contents
 
-- **Goldbach_Paper.tex**: The LaTeX source for the research paper
+- **results.txt**: The results from the test run as mentioned in the research paper.
 - **goldbach_verifier.py**: The complete Python script used for verification and benchmarking (Numba-accelerated)
 - **requirements.txt**: A list of Python packages required to run the script
 - **.gitignore**: Standard Python Git ignore file
