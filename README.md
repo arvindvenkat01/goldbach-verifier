@@ -1,17 +1,17 @@
 # A Structural Decomposition Framework for the Goldbach Conjecture: Algorithmic Optimization via Residue Class Analysis
 
-**Author:** [Your Name Here]
+**Author:** Arvind N. Venkat
 
 This work has been archived and assigned a permanent identifier on Zenodo. Please replace the badge and links below with your actual DOI once generated. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.YOUR_DOI_HERE.svg)](https://doi.org/10.5281/zenodo.YOUR_DOI_HERE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17038291.svg)](https://doi.org/10.5281/zenodo.17038291)
 
 ---
 
 ## Pre-print Information
 
-- **DOI:** `10.5281/zenodo.YOUR_DOI_HERE`
-- **URL:** [https://zenodo.org/records/YOUR_DOI_HERE](https://zenodo.org/records/YOUR_DOI_HERE)
+- **DOI:** `10.5281/zenodo.17038291`
+- **URL:** [https://zenodo.org/records/17038291](https://zenodo.org/records/17038291)
 
 ---
 
@@ -99,13 +99,13 @@ Serial benchmark:
 
 If you use this work, please cite the paper using the Zenodo archive. Replace the placeholder DOI before publishing:
 
-@misc{your_lastname_2025_goldbach,
-author = {[Your Name Here]},
+@misc{Venkat2025_GoldbachVerification,
+author = {Arvind N. Venkat},
 title = {A Structural Decomposition Framework for the Goldbach Conjecture: Algorithmic Optimization via Residue Class Analysis},
 year = {2025},
 publisher = {Zenodo},
-doi = {10.5281/zenodo.YOUR_DOI_HERE},
-url = {https://doi.org/10.5281/zenodo.YOUR_DOI_HERE}
+doi = {10.5281/zenodo.17038291},
+url = {https://doi.org/10.5281/zenodo.17038291}
 }
 
 
