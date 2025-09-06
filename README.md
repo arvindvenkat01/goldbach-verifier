@@ -2,7 +2,7 @@
 
 **Author:** Arvind N. Venkat
 
-This work has been archived and assigned a permanent identifier on Zenodo. Please replace the badge and links below with your actual DOI once generated. 
+This work has been archived and assigned a permanent identifier on Zenodo.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17038291.svg)](https://doi.org/10.5281/zenodo.17038291)
 
@@ -97,7 +97,7 @@ Serial benchmark:
 
 ## Citation
 
-If you use this work, please cite the paper using the Zenodo archive. Replace the placeholder DOI before publishing:
+If you use this work, please cite the paper using the Zenodo archive.
 
 @misc{Venkat2025_GoldbachVerification,
 author = {Arvind N. Venkat},
